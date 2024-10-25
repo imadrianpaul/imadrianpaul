@@ -3,7 +3,7 @@
 - 🌱 Currently learning Python
 - ✒️ Enhancing my skills in Figma
 - 🤝 Open for collaborations!
-- 📫 Reach me @youadrianppaul@gmail.com
+- 📫 Reach me at youadrianppaul@gmail.com
 
 <!---
 imadrianpaul/imadrianpaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
