@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adrian!
 - 👀 I’m interested in designing and developing projects.
-- 🌱 Currently learning Python
-- ✒️ Enhancing my skills in Figma
+- 🌱 Currently learning SvelteKit and Laravel
+- ✒️ Constantly enhancing my skills
 - 🤝 Open for collaborations!
 - 📫 Reach me at youadrianppaul@gmail.com
 
